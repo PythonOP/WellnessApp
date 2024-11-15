@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="orange">#FF784B</color>
+    <color name="green">#32BC9B</color>
+    <style name="CustomEditText">
+        <item name="android:background">@drawable/custom_edittext</item>
+        <item name="android:textColor">#4e7392</item> <!-- Change text color -->
+        <item name="android:textColorHint">#4e7392</item> <!-- Change hint color -->
+        <item name="android:padding">12dp</item>
+    </style>
+</resources>
+
